@@ -31,7 +31,7 @@ npm install lottie-web
 //or yarn add lottie-web
 ```
 #### tips
-- 不想自己设计动画可以去网站下载现成json；
+- 不想自己设计动画可以去网站下载现成json；   
     https://www.lottiefiles.com/
 
 
